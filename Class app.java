@@ -11,6 +11,6 @@ public class app {
 
     GenLib.printAlamat(a:"jalan cibodas", b:"Nagrak");
     Genlib.printAlamat (a:"jalan Cibodas", b: 10);
-    
+
     }
 }
